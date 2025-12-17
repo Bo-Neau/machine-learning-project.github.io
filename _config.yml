@@ -1,5 +1,7 @@
 title: Customer Propensity to Purchase - Data Science Project
 #description: text below image
 show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme 
 
