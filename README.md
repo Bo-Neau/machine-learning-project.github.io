@@ -1,4 +1,3 @@
-<img width="468" height="158" alt="image" src="https://github.com/user-attachments/assets/b21c60cf-c1c8-45de-8e24-4f40916b5ae4" /><img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/ce358dc5-5431-4f05-b7c6-ac12921f8ed6" /><img width="468" height="90" alt="image" src="https://github.com/user-attachments/assets/05983326-7584-44b6-97e4-081850c88c78" /><img width="468" height="52" alt="image" src="https://github.com/user-attachments/assets/e9c18d9e-edc6-4419-99f8-b9220cc01eb8" /><img width="468" height="52" alt="image" src="https://github.com/user-attachments/assets/88ecbe85-60fd-4320-ac6b-27ad69dfedd5" /><img width="468" height="81" alt="image" src="https://github.com/user-attachments/assets/a58410f1-5877-40de-a238-462ecdf1c6fc" /># Customer Propensity to Buy Dataset
 ## Data Science and Machine learning Project
 
 ## 1. Unsupervised Learning
